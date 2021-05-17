@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Serkebaeva
 - 👀 I’m interested in - Web development, hobby activities - cycling and other..
 - 🌱 I’m currently learning HTML, CSS
-- 📫 I’m looking to collaborate on - some social projects, so fill free to reach me by:
+- 📫 I’m looking to collaborate on - some social projects, so feel free to reach me by:
 aizada.serkebaeva.pls@gmail.com
 
 <!---
