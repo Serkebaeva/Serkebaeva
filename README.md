@@ -2,7 +2,7 @@
 - 👀 I’m interested in - Web development, hobby activities - cycling and other..
 - 🌱 I’m currently learning HTML, CSS & JS
 - 📫 I’m looking for some social projects, **Open Sources to collaborate on** - so, please, feel free to reach me by:
-aizada.serkebaeva5@gmail.com
+aizada.serkebaeva.lt@gmail.com
 
 My other project links:
 https://codepen.io/serkebaeva/pens/public
