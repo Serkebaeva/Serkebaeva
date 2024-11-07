@@ -7,7 +7,7 @@ https://codepen.io/serkebaeva/pens/public
 https://gitlab.com/Serkebaeva
 
 **Learning certifications so far:**
-https://www.freecodecamp.org/certification/fcc27f8dfa9-f5cd-49bf-b49c-d171d82dd922/responsive-web-design
+https://www.freecodecamp.org/certification/Aizada/responsive-web-design
 
 
 
