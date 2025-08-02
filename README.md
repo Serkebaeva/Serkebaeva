@@ -1,5 +1,5 @@
 - 👋 Hi, Welcome to my page **@Serkebaeva**
-- 🌱 Currently learning Java
+- 🌱 Currently learning C
 - 📫 aizada.serkebaeva.lt@gmail.com
 
 My other project links:
